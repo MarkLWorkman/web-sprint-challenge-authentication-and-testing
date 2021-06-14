@@ -79,3 +79,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
    Unit tests can be used to test smaller pieces of code. Integration tests test how code blocks function together. End to end tests how the entire application runs.
 4. How does _Test Driven Development_ change the way we write applications and tests?
    You start off by making test that are meant to fail. Then you fix it so it passes and then you refacter the code so if runs better.
+   test
